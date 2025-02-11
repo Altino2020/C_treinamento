@@ -8,7 +8,7 @@ int main() {
 
     printf("Enter numbers (enter -1 to stop):\n");
 
-    while (1) {
+    while (number>0) {
         printf("Enter a number: ");
         scanf("%d", &number);
 
