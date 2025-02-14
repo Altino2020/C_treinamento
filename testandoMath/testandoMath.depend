@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1739533304 source:/home/altinoferreir/Documentos/Programacao/C/C_treinamento/testandoMath/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
